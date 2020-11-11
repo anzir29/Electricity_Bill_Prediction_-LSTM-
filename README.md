@@ -5,9 +5,9 @@ For Dataset, We take August 2000 to October 2020 electricity bill for our house.
 <img src="bill.png" width="50%" height="50%">
 <img src="Dataset.png">
 # Architecture
-<img src="Model_plot.png">
+![alt text](model_plot.png)
 # Training Loss and Error
-<img src="loss.png" >
-<img src="error.png" >
+![alt text](loss.png)
+![alt text](error.png)
 # Result
-<img src="Result.png">
+![alt text](Result.png)
