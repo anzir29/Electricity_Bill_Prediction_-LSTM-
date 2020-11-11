@@ -10,4 +10,4 @@ For Dataset, We take August 2000 to October 2020 electricity bill for our house.
 <img src="loss.png" >
 <img src="error.png" >
 # Result
-<img src="result.png">
+<img src="Result.png">
