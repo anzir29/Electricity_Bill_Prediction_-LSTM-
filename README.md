@@ -7,7 +7,7 @@ For Dataset, We take August 2000 to October 2020 electricity bill for our house.
 # Architecture
 ![alt text](model_plot.png)
 # Training Loss and Error
-![alt text](loss.png)
-![alt text](error.png)
+![alt text](.png)
+![alt text](.png)
 # Result
-![alt text](Result.png)
+![alt text](.png)
